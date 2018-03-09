@@ -487,7 +487,7 @@ locate 使用 /var/lib/mlocate/ 这个数据库来进行搜索，它存储在内
 find 可以使用文件的属性和权限进行搜索。
 
 ```html
-# find filename [option]
+# find directorname [option]
 ```
 
 #### 4.1 与时间有关的选项
